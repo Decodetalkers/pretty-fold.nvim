@@ -242,7 +242,7 @@ This plugin provides two setup functions.
 2) The second one allows to setup filetype specific configuration:
 
    ```lua
-   require('pretty-fold').ft_setup(filtype: string, config: table)
+   require('pretty-fold').ft_setup(filetype: string, config: table)
    ```
 
 #### Example of ready to use foldtext configuration only for lua files
